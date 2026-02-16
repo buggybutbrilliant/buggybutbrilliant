@@ -1,4 +1,4 @@
-# 🐛 BuggyButBrilliant
+# 🐞 BuggyButBrilliant
 
 **Affordable websites. Built fast. Launched right.**
 
